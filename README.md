@@ -1,5 +1,3 @@
-<div style="float: right;" ><img src="https://emersonbroga.com/wp-content/uploads/2020/01/emersonbroga-smile.png" alt="Emerson Broga" /><div/>
-
 # Emerson Brôga
 
 Sr. Software Engineer
