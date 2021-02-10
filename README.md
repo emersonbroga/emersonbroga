@@ -1,16 +1,21 @@
-### Hi there 👋
+# Emerson Brôga
 
-<!--
-**emersonbroga/emersonbroga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sr. Software Engineer
 
-Here are some ideas to get you started:
+🌟 Eu ensino JavaScript, NodeJs e React!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Seja avisado de novos conteúdos
+
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+[js.emersonbroga.com/links](https://js.emersonbroga.com/links)
+
+
+## Se ainda não segue, conheça as Redes Sociais
+
+[![instagram.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/instagram.png?raw=true)](https://emersonbroga.com/instagram)
+[![youtube.com/c/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/youtube.png?raw=true)](https://emersonbroga.com/youtube)
+[![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
+[![twitter.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
+[![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
+
+<p align="right"><img src="https://emersonbroga.com/wp-content/uploads/2020/01/emersonbroga-smile.png" alt="Emerson Broga" /><p/>
