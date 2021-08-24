@@ -1,6 +1,6 @@
 # Emerson Brôga
 
-Sr. Software Engineer
+Software Engineer
 
 🌟 Eu ensino JavaScript, NodeJs e React!
 
