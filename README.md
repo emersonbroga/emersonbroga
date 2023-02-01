@@ -63,8 +63,8 @@ Courses available in Brazilian Portuguese
 
 <p float="left">
   <a href="https://emersonbroga.com/js/?utm_source=github&utm_medium=profile&utm_id=organic" target="_blank"><img src="https://emersonbroga.com/wp-content/uploads/2023/01/curso-javascript-600x600-1.png" width="100" alt="Curso Completo de JavaScript com Emerson Brôga" />
-  <a href="https://emersonbroga.dev/axios/?utm_source=github&utm_medium=profile&utm_id=organic" target="_blank"><img src="https://emersonbroga.com/wp-content/uploads/2023/01/axios-600x600-1.png" width="100" alt="Curso Completo de Axios com Emerson Brôga"/></a>
-  <a href="https://emersonbroga.dev/react/?utm_source=github&utm_medium=profile&utm_id=organic" target="_blank">
+  <a href="https://emersonbroga.com/axios/?utm_source=github&utm_medium=profile&utm_id=organic" target="_blank"><img src="https://emersonbroga.com/wp-content/uploads/2023/01/axios-600x600-1.png" width="100" alt="Curso Completo de Axios com Emerson Brôga"/></a>
+  <a href="https://emersonbroga.com/react/?utm_source=github&utm_medium=profile&utm_id=organic" target="_blank">
   <img src="https://emersonbroga.com/wp-content/uploads/2023/01/600x600-dev-sem-fronteiras.png" width="100"  alt="Dev Sem Fronteiras - Curso Completo de React e NodeJS com Emerson Brôga"/></a>
 </p>
 
