@@ -68,7 +68,7 @@ Courses available in Brazilian Portuguese
   <img src="https://emersonbroga.com/wp-content/uploads/2023/01/600x600-dev-sem-fronteiras.png" width="100"  alt="Dev Sem Fronteiras - Curso Completo de React e NodeJS com Emerson Brôga"/></a>
 </p>
 
-### Badges
+### Github Stats
 
 
 
