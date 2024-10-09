@@ -3,14 +3,14 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC29n3f6JhwqtD-kCJi_BwoA?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC29n3f6JhwqtD-kCJi_BwoA?style=social)
 
 
-**Senior Software Engineer at <img src="https://www.quicknode.com/assets/favicon-0713ffeaf9dfb9643de638c4f2f599f0a71683bbca3ff36bf2943083f8bee268.png" width="16" height="16" alt="QuickNode logo"/> QuickNode**
+**Frontend Tech lead at Uniify**
 
-Building websites since 2002, 9 years working for US 🇺🇸 based companies building large projects like Fox.com, FXNetworks.com, SimpsonsWorld.com, NatGeo.com. Teaching JavaScript, React and NodeJS through content on Youtube 🇧🇷.
-
+Building websites since 2002, 10 years working for US 🇺🇸 based companies building large projects like Fox.com, FXNetworks.com, SimpsonsWorld.com, NatGeo.com. Teaching JavaScript, React and NodeJS through content on Youtube 🇧🇷.
+Read more information about my career at https://career.emersonbroga.com/
 
 *   🌍 I'm based on Planet Earth (Brazil for now)
 *   ✉️ You can contact me at [emerson@emersonbroga.com](mailto:emerson@emersonbroga.com)
-*   🚀 I'm currently working at [QuickNode](http://www.quicknode.com) 
+*   🚀 I'm currently working at [Uniify](https://uniify.io/) 
 *   🧠 I'm teaching JavaScript, React and NodeJS 
 *   ⚡ Youtube Channel @emersonbroga
 
