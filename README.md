@@ -3,7 +3,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC29n3f6JhwqtD-kCJi_BwoA?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC29n3f6JhwqtD-kCJi_BwoA?style=social)
 
 
-**Frontend Tech lead at Uniify**
+**Frontend Tech Lead at Uniify**
 
 Building websites since 2002, 10 years working for US 🇺🇸 based companies building large projects like Fox.com, FXNetworks.com, SimpsonsWorld.com, NatGeo.com. Teaching JavaScript, React and NodeJS through content on Youtube 🇧🇷.
 Read more information about my career at https://career.emersonbroga.com/
